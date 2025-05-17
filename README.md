@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hello World
+Hi, I'm [Windard](https://windard.com) 👋
 
-<!--
-**WithoutGuidanc/WithoutGuidanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![age](https://img.shields.io/badge/age-24-blue)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-shanghai-3c9)
+![visitors](https://visitor-badge.herokuapp.com/badge?page_id=windard.github.profile)
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/windard)
+
+----
+
+Credits: [windard](https://github.com/windard)
+
+Last Edited on: 16/05/2025
