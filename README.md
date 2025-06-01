@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WithoutGuidanc/WithoutGuidanc/main/nujz-logo.png" width="200" />
+  <img src="https://raw.githubusercontent.com/WithoutGuidanc/WithoutGuidanc/main/beb8bd9d-324d-41af-be81-f6ed56475718.png" width="200" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
