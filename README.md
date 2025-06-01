@@ -1,64 +1,100 @@
-<!-- Banner -->
+<!-- Header Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WithoutGuidanc/WithoutGuidanc/main/beb8bd9d-324d-41af-be81-f6ed56475718.png" width="200" />
+  <img src="https://raw.githubusercontent.com/WithoutGuidanc/WithoutGuidanc/main/beb8bd9d-324d-41af-be81-f6ed56475718.png" width="150" alt="nujz logo"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
-<h3 align="center">Web Developer | Programming Language Creator | OS Developer</h3>
-
----
-
-### 👨‍💻 About Me
-
-- 💡 I’m currently building a **completely new programming language** called [`nujz`](https://github.com/WithoutGuidanc/nujz).
-- 🛠 I'm also designing a **dedicated code editor** and a full **website** for it.
-- 📱 Most of my development is done using **Termux** on Android.
-
----
-
-### 🧠 Skills & Tools
-
-- 🖥️ Languages: `C++`, `HTML`, `CSS`, `SASS`, `JavaScript`
-- ⚙️ Tools: `Git`, `Termux`, `SPCK Editor`, `React`
-- 🌍 Fields: `Web Development`, `Language Design`, `OS Dev`
-
----
-
-### 📌 Featured Projects
-
-- 🚀 `nujz` – A brand-new programming language with its own syntax, compiler, and vision.  
-  [View on GitHub](https://github.com/WithoutGuidanc/nujz)
-
-- 🧱 `nujz-site` – A custom website for showcasing the language and its documentation. *(Coming soon)*
-
-- 🧑‍💻 `nujz-editor` – A simple but powerful code editor designed to support `nujz`. *(Coming soon)*
-
----
-
-### 🎯 My Goal
-
-> "To build software that inspires people and contributes something useful to the world."
-
----
-
-### 📫 Contact Me
-
-- 🌐 [Facebook](https://www.facebook.com/share/1AG2Por8g8/)
-- 📧 mohammed.khaled.abdullah.mauhod@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com) *(placeholder – update later)*
-
----
+<h1 align="center">👨‍💻 Mohamed Khaled</h1>
+<h3 align="center">Full Stack Developer | Language Architect | Mobile-Based Innovator</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WithoutGuidanc&theme=dark" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WithoutGuidanc&theme=github_dark"/>
+  <a href="mailto:mohammed.khaled.abdullah.mauhod@gmail.com">📧 Email</a> |
+  <a href="https://www.facebook.com/share/1AG2Por8g8/">🌐 Facebook</a> |
+  <a href="#">🔗 LinkedIn (Coming Soon)</a>
 </p>
 
 ---
 
+## 🧠 نبذة سريعة
+
+- 🇪🇬 مبرمج ومهندس أفكار من مصر.
+- أؤمن أن البرمجة مش بس كود، دي طريقة لتغيير الواقع وبناء أدوات بتعيش.
+- بشتغل على **لغة برمجة خاصة** اسمها `nujz`، من الصفر باستخدام C++.
+- بكتب الكود بالكامل من الهاتف باستخدام **Termux** و**SPCK Editor**.
+
+---
+
+## 🛠️ المهارات الأساسية
+
+- **Back-End**: `C++` / نظام Compiler من الصفر
+- **Front-End**: `HTML` / `CSS` / `SASS` / `JavaScript` / `React`
+- **Dev Tools**: `Git` / `Termux` / `SPCK Editor`
+- **مجالات التخصص**: تصميم لغات البرمجة، أنظمة التشغيل، تطوير الويب
+
+---
+
+## 🚀 أهم المشاريع
+
+### 🐍 `nujz` — لغة برمجة جديدة
+> لغة مختلفة تمامًا عن الموجود حاليًا  
+> مصممة بأفكار جديدة وأسلوب كتابة مرن  
+> تشمل Compiler حقيقي، وParser متكامل، وInterpreter يعمل بالكامل
+
+[🔗 View on GitHub](https://github.com/WithoutGuidanc/nujz)
+
+---
+
+### 🌍 nujz Web Platform
+> موقع إلكتروني رسمي للغة `nujz`  
+> تصميم كامل من الصفر مع واجهة تفاعلية ومحرر كود داخلي  
+> هدفه يكون بوابة تعلم وتجربة اللغة أونلاين
+
+---
+
+### 🧾 nujz Editor
+> محرر أكواد ذكي مبني خصيصًا للتعامل مع لغة `nujz`  
+> يدعم Syntax Highlighting وCompilation داخلي  
+> مكتوب من الهاتف بالكامل
+
+---
+
+## 🎯 الرؤية
+
+> *"هدفي مش بس أكتب كود... أنا ببني لغة تفكير جديدة للبرمجة.  
+حتى لو من الهاتف — لازم أبدأ وأوصل."*
+
+---
+
+## 🧬 الأدوات اللي بشتغل بيها
+
+| النظام | الأدوات |
+|--------|---------|
+| الهاتف بالكامل | `Termux`, `SPCK Editor` |
+| التحكم بالإصدار | `Git`, `GitHub` |
+| البرمجة المتقدمة | `C++`, `HTML`, `CSS`, `JavaScript`, `React` |
+| التصميم والتجريب | `SASS`, واجهات تفاعلية, أنيميشن |
+
+---
+
+## 📈 إحصائياتي على GitHub
+
 <p align="center">
-  <b>“Be the compiler of your own destiny.”</b> 🚀
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WithoutGuidanc&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WithoutGuidanc&theme=github_dark" />
+</p>
+
+---
+
+## 💬 تواصل معايا
+
+- 📧 mohammed.khaled.abdullah.mauhod@gmail.com  
+- 🌐 [Facebook](https://www.facebook.com/share/1AG2Por8g8/)  
+- 🔗 LinkedIn: *(تحديث قادم)*
+
+---
+
+<p align="center">
+  <strong>🚀 Programming is my revolution — even from my phone.</strong>
 </p>
