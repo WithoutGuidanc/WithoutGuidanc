@@ -1,65 +1,64 @@
-<h1 align="center">Hi there, I'm Mohamed 👋</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WithoutGuidanc/WithoutGuidanc/main/nujz-logo.png" width="200" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
+<h3 align="center">Web Developer | Programming Language Creator | OS Developer</h3>
+
+---
+
+### 👨‍💻 About Me
+
+- 💡 I’m currently building a **completely new programming language** called [`nujz`](https://github.com/WithoutGuidanc/nujz).
+- 🛠 I'm also designing a **dedicated code editor** and a full **website** for it.
+- 📱 Most of my development is done using **Termux** on Android.
+
+---
+
+### 🧠 Skills & Tools
+
+- 🖥️ Languages: `C++`, `HTML`, `CSS`, `SASS`, `JavaScript`
+- ⚙️ Tools: `Git`, `Termux`, `SPCK Editor`, `React`
+- 🌍 Fields: `Web Development`, `Language Design`, `OS Dev`
+
+---
+
+### 📌 Featured Projects
+
+- 🚀 `nujz` – A brand-new programming language with its own syntax, compiler, and vision.  
+  [View on GitHub](https://github.com/WithoutGuidanc/nujz)
+
+- 🧱 `nujz-site` – A custom website for showcasing the language and its documentation. *(Coming soon)*
+
+- 🧑‍💻 `nujz-editor` – A simple but powerful code editor designed to support `nujz`. *(Coming soon)*
+
+---
+
+### 🎯 My Goal
+
+> "To build software that inspires people and contributes something useful to the world."
+
+---
+
+### 📫 Contact Me
+
+- 🌐 [Facebook](https://www.facebook.com/share/1AG2Por8g8/)
+- 📧 mohammed.khaled.abdullah.mauhod@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com) *(placeholder – update later)*
+
+---
 
 <p align="center">
-  🔥 A passionate self-taught programmer and full-stack web developer<br>
-  💻 I build useful apps, tools, and experiment with custom programming languages<br>
-  🚀 Currently creating my own language: <strong>nujz</strong>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WithoutGuidanc&theme=dark" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WithoutGuidanc&theme=github_dark"/>
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🧑‍💻 I'm a high school student with a strong passion for programming.
-- 🔧 I develop Android apps using Kotlin, Java, and Sketchware.
-- 🌐 I create websites using HTML, CSS, JavaScript – aiming for Full Stack mastery.
-- 🧪 I experiment with building interpreters and compilers using C++ and Termux.
-- 📱 I use my phone only for all my programming and development.
-- 🧰 I work with Termux, Git, Firebase, and React Native on mobile.
-- 💡 I love solving problems and building tools that actually help people.
-- 🎯 My goal: become a professional full-stack developer and systems engineer.
-
----
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react)
-![Termux](https://img.shields.io/badge/-Termux-000000?style=flat&logo=linux)
-
----
-
-## 📌 Projects I'm Working On
-
-- 🔨 **nujz** – A new programming language from scratch (C++ | Termux)
-- 📱 Mobile Apps with Kotlin + Firebase Auth + Animations
-- 🌍 Full Stack Websites with dynamic features
-- 🧪 Cybersecurity tools for ethical testing on Android
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" width="48%">
+  <b>“Be the compiler of your own destiny.”</b> 🚀
 </p>
-
----
-
-## 📫 Contact Me
-
-- 💬 Telegram: [@your_username](https://t.me/your_username)
-- ✉️ Email: youremail@example.com
-- 🌐 Portfolio: *Coming Soon...*
-
----
-
-> "Build. Learn. Repeat." 🚀
