@@ -84,6 +84,6 @@
 ## 📫 تواصل معي
 
 <p align="center">
-  <a href="mailto:youremail@example.com">📧 mohamed.khaled@example.com</a><br>
+  <a href="mailto:mohammed.khaled.abdullah.mauhod@gmail.com">📧 mohammed.khaled.abdullah.mauhod@gmail.com</a><br>
   أو تواصل معي على GitHub مباشرة عبر الإشعارات أو فتح issues.
 </p>
