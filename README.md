@@ -1,7 +1,6 @@
-
 <!-- زائر الملف الشخصي -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamed-khaled.visitor-badge" alt="عدد الزوار" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=WithoutGuidanc.visitor-badge" alt="عدد الزوار" />
 </p>
 
 <!-- ترحيب متحرك -->
@@ -71,12 +70,12 @@
 ## 📊 إحصائيات GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WithoutGuidanc&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=WithoutGuidanc&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=1a1b27&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WithoutGuidanc&theme=react-dark&bg_color=1a1b27&hide_border=true" width="100%" />
 </p>
 
 ---
