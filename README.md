@@ -27,19 +27,18 @@
 ## 💼 المهارات والتقنيات
 
 <p align="center">
-  <code><img title="HTML5" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-  <code><img title="CSS3" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-  <code><img title="JavaScript" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-  <code><img title="TailwindCSS" height="28" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code>
-  <code><img title="Bootstrap" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
-  <code><img title="React" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-  <code><img title="C++" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
-  <code><img title="Git" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-  <code><img title="GitHub" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-  <code><img title="Termux" height="28" src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" /></code>
+  <code><img title="HTML5" height="28"  width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+  <code><img title="CSS3" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+  <code><img title="JavaScript" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+  <code><img title="TailwindCSS" width="28" height="28" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code>
+  <code><img title="Bootstrap" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
+  <code><img title="React" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+  <code><img title="C++" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
+  <code><img title="Git" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+  <code><img title="GitHub" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+  <code><img title="Termux" height="28" width="28" src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" /></code>
 </p>
 
----
 
 ## 📱 بيئة العمل الخاصة بي
 
@@ -55,17 +54,13 @@
   <li>💡 <strong>JavaScript</strong> لتطوير التفاعل في واجهات React</li>
 </ul>
 
----
-
-## 🔧 المشاريع
+---# 🔧 المشاريع
 
 > 🛠 أعمل حالياً على:
 
 - 🌐 تصميم مواقع باستخدام **TailwindCSS + React**
 - 🧬 بناء **مفسر Interpreter** للغة "nujz"
 - 💣 تعلم **أساسيات الأمن السيبراني** من خلال Termux
-
----
 
 ## 📊 إحصائيات GitHub
 
@@ -78,9 +73,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WithoutGuidanc&theme=react-dark&bg_color=1a1b27&hide_border=true" width="100%" />
 </p>
 
----
-
-## 📫 تواصل معي
+## 📫 تواصل مع
 
 <p align="center">
   <a href="mailto:mohammed.khaled.abdullah.mauhod@gmail.com">📧 mohammed.khaled.abdullah.mauhod@gmail.com</a><br>
